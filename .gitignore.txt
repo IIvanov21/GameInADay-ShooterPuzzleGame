@@ -1,0 +1,4 @@
+GameInADay/.vs
+GameInADay/Binaries
+GameInADay/Intermediate
+GameInADay/Saved
